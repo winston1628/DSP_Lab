@@ -24,15 +24,15 @@ First, create a intensity matrix. Then each pixel of RGB and intensity matrix do
 ### Results
 
 <div style="text-align: center">
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/image.jpg" width="300"/>
+<img src="image/image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/example.jpg" width="300"/>
+<img src="image/example.jpg" width="300"/>
 
 original image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/grey_image.jpg" width="300"/>
+<img src="image/grey_image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/grey_example.jpg" width="300"/>
+<img src="image/grey_example.jpg" width="300"/>
 
 grey-scale image
 
@@ -56,27 +56,27 @@ Using if statement to choose the type and then reverse each row or each column o
 ### Results
 
 <div style="text-align: center">
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/image.jpg" width="300"/>
+<img src="image/image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/example.jpg" width="300"/>
+<img src="image/example.jpg" width="300"/>
 
 original image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/H_flip_image.jpg" width="300"/>
+<img src="image/H_flip_image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/H_flip_example.jpg" width="300"/>
+<img src="image/H_flip_example.jpg" width="300"/>
 
 horizontal flipping image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/V_flip_image.jpg" width="300"/>
+<img src="image/V_flip_image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/V_flip_example.jpg" width="300"/>
+<img src="image/V_flip_example.jpg" width="300"/>
 
 vertical flipping image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/H&V_flip_image.jpg" width="300"/>
+<img src="image/H&V_flip_image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/H&V_flip_example.jpg" width="300"/>
+<img src="image/H&V_flip_example.jpg" width="300"/>
 
 horizontal % vertical flipping image
 
@@ -135,21 +135,21 @@ horizontal % vertical flipping image
 ### Results
 
 <div style="text-align: center">
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/image.jpg" width="300"/>
+<img src="image/image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/example.jpg" width="300"/>
+<img src="image/example.jpg" width="300"/>
 
 original image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/rotation45_image.jpg" width="300"/>
+<img src="image/rotation45_image.jpg" width="300"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/rotation45_example.jpg" width="300"/>
+<img src="image/rotation45_example.jpg" width="300"/>
 
 45 degree rotation image
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/rotation90_image.jpg" width="250"/>
+<img src="image/rotation90_image.jpg" width="250"/>
 
-<img src="/Users/winston/Desktop/DSP_Lab_HW0/results/image/rotation90_example.jpg" width="250"/>
+<img src="image/rotation90_example.jpg" width="250"/>
 
 90 degree rotation image
 
